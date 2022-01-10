@@ -15,4 +15,12 @@ You can visualize a lot of apps using this wonderful package.
   How ofter forgot passwords in some websites because don't visit frecuently or have hundred of different password in your head.
   Well this application is perfect to save your password in your local machine with your website and username if you forgot too
   
-  More projects soon...
+* **Quizzer**
+
+  Could you know about trivia games. Easy Questions, hard Questions. You can test your general knowledge. Science, Information, Arts, Sports, etc
+  Just are 20 questions of general knowledge.
+
+* **Flashy Card**
+
+  How many words can we know in other language. Exist words which the people say more frecuently than others. 
+  So there are one of many ways to memorize them. Flashy card shows you a word in Italian language for example and after 3 seconds turn to English. If you got it that word moves to your book of words learned. 
